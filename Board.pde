@@ -26,4 +26,4 @@ void select(int x, int y){
       koma.kStat.selected=false;
     }
   }
-  }
+}
